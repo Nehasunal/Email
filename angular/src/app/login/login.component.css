@@ -1,0 +1,13 @@
+mat-card{
+  background-color: #808080;
+}
+
+mat-error{
+  color:black;
+}
+
+input{
+ line-height: 2rem;
+ margin:4px;
+ padding:4px;
+}
